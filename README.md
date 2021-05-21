@@ -159,7 +159,7 @@ In this Progam next display on the screen create,diplay,raisesalary and exit bas
        }while(ch>0 && ch<4);
     }
  }
-   we can enetr the all name age salary and all the emplyoee deatais are displayed on the screen and then choose exit optin we come from the out of the loop.
+   we can enetr the all name, age, salary and all the emplyoee deatails are displayed on the screen and then choose exit option we come from the out of the loop.
      
        
        
